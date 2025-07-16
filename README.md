@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=1000&height=60&lines=Hello;I'm+Sahilpreet+Singh;BTech+CS+Student;Blockchain+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=1500&color=2D95F7&center=true&vCenter=true&width=1000&height=60&lines=Hello;I'm+Sahilpreet+Singh;BTech+CS+Student;Blockchain+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 
 <h2 align="left">A CSE undergrad from IIT Jodhpur diving deep into Full Stack Development!</h2>
